@@ -1,0 +1,20 @@
+.container {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.min-height {
+    min-height: 75%;
+}
+
+.start {
+    justify-content: flex-start; /*os intens ficam alinhados no começo da pagina*/
+}
+
+.colum {
+    flex-direction: column;
+    justify-content: flex-start;
+}
