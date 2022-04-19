@@ -10,6 +10,17 @@
       "cost": 0,
       "service": [],
       "id": 1
+    },
+    {
+      "name": "Projeto 2",
+      "budget": "200000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 2
     }
   ],
   "categories": [
