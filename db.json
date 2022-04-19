@@ -1,42 +1,15 @@
 {
   "projects": [
     {
-      "name": "Teste",
-      "budget": "12212",
+      "name": "Projeto 1",
+      "budget": "100000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "service": [],
       "id": 1
-    },
-    {
-      "name": "Meu Projeto teste",
-      "budget": "10000000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "service": [],
-      "id": 2
-    },
-    {
-      "cost": 0,
-      "service": [],
-      "id": 3
-    },
-    {
-      "name": "Projeto 4",
-      "budget": "100000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "service": [],
-      "id": 4
     }
   ],
   "categories": [
