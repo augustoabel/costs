@@ -26,6 +26,17 @@
       "cost": 0,
       "service": [],
       "id": 3
+    },
+    {
+      "name": "Projeto 4",
+      "budget": "100000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 4
     }
   ],
   "categories": [
